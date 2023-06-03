@@ -1,0 +1,1 @@
+export const dataWork = Array.from({length: 31}, (_, i) => i + 1)

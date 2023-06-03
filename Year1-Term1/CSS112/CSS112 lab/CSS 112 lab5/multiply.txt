@@ -1,0 +1,6 @@
+10 Celcius = 50.00 Farenheit.
+11 Celcius = 51.80 Farenheit.
+12 Celcius = 53.60 Farenheit.
+13 Celcius = 55.40 Farenheit.
+14 Celcius = 57.20 Farenheit.
+15 Celcius = 59.00 Farenheit.
